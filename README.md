@@ -1,6 +1,5 @@
 Simple app that lets you roll a pair of dice. It also displays an animation every time the dice are rolled.
 
- Here’s a gif of the app I've built:
 ![](react-dice-game.gif)
 
 This exercise practices working with props, defaultProps, state, and simple click events in React. 
